@@ -106,7 +106,7 @@
 </head>
 <body>
   <header>
-    <h1>Welcome to My Website</h1>
+    <h1>Welcome to My Website for maven project</h1>
     <p>Your one-stop solution for amazing services</p>
   </header>
   <nav>
