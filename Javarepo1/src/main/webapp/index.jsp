@@ -106,7 +106,7 @@
 </head>
 <body>
   <header>
-    <h1>Welcome to my project1</h1>
+    <h1>Welcome to my project1 handson Training</h1>
     <p>Your one-stop solution for amazing services</p>
   </header>
   <nav>
