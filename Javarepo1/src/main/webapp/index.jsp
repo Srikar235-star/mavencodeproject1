@@ -106,7 +106,7 @@
 </head>
 <body>
   <header>
-    <h1>Welcome to My Website maven project</h1>
+    <h1>Welcome to PROJECT1 code deployed</h1>
     <p>Your one-stop solution for amazing services</p>
   </header>
   <nav>
