@@ -106,7 +106,7 @@
 </head>
 <body>
   <header>
-    <h1>Devops-Project 1 by srikar vt</h1>
+    <h1>Dr.Sreeja</h1>
     <p>Your one-stop solution for amazing services</p>
   </header>
   <nav>
